@@ -14,7 +14,7 @@ export class RecipeItemComponent implements OnInit {
 
   constructor(private recipeService: RecipeService) { }
 
-  ngOnInit() {
+  ngOnInit() {//git stat
   }
 
  
